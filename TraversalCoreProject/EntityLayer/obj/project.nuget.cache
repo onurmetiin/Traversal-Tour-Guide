@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2PswDIhIiRM9seMacBiIUYWGGJh8kaIUhQQPRpRgktqHv6HPadE4FDn9N17gQCu1bvAIvRe8lkgST+qlOHhgnQ==",
+  "dgSpecHash": "vp0RaSbZTqERjSJL8W/X/XNveYbAQnEJwp530ltpEzy7Gw9QiuJQhODE41k523gwMTkG3UNRzzCmEfQH7yFmBQ==",
   "success": true,
-  "projectFilePath": "/Users/onurmetin/Desktop/Traversal/TraversalCoreProject/EntityLayer/EntityLayer.csproj",
+  "projectFilePath": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/EntityLayer/EntityLayer.csproj",
   "expectedPackageFiles": [
     "/Users/onurmetin/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/onurmetin/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",

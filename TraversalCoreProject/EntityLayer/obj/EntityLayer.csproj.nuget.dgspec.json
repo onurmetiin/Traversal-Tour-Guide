@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/onurmetin/Desktop/Traversal/TraversalCoreProject/EntityLayer/EntityLayer.csproj": {}
+    "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/EntityLayer/EntityLayer.csproj": {}
   },
   "projects": {
-    "/Users/onurmetin/Desktop/Traversal/TraversalCoreProject/EntityLayer/EntityLayer.csproj": {
+    "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/EntityLayer/EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/onurmetin/Desktop/Traversal/TraversalCoreProject/EntityLayer/EntityLayer.csproj",
+        "projectUniqueName": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/EntityLayer/EntityLayer.csproj",
         "projectName": "EntityLayer",
-        "projectPath": "/Users/onurmetin/Desktop/Traversal/TraversalCoreProject/EntityLayer/EntityLayer.csproj",
+        "projectPath": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/EntityLayer/EntityLayer.csproj",
         "packagesPath": "/Users/onurmetin/.nuget/packages/",
-        "outputPath": "/Users/onurmetin/Desktop/Traversal/TraversalCoreProject/EntityLayer/obj/",
+        "outputPath": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/EntityLayer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/onurmetin/.nuget/NuGet/NuGet.Config"

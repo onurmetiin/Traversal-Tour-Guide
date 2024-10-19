@@ -2039,11 +2039,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/onurmetin/Desktop/Traversal/TraversalCoreProject/DataAccessLayer/DataAccessLayer.csproj",
+      "projectUniqueName": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/DataAccessLayer/DataAccessLayer.csproj",
       "projectName": "DataAccessLayer",
-      "projectPath": "/Users/onurmetin/Desktop/Traversal/TraversalCoreProject/DataAccessLayer/DataAccessLayer.csproj",
+      "projectPath": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/DataAccessLayer/DataAccessLayer.csproj",
       "packagesPath": "/Users/onurmetin/.nuget/packages/",
-      "outputPath": "/Users/onurmetin/Desktop/Traversal/TraversalCoreProject/DataAccessLayer/obj/",
+      "outputPath": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/DataAccessLayer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/onurmetin/.nuget/NuGet/NuGet.Config"
@@ -2058,8 +2058,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/onurmetin/Desktop/Traversal/TraversalCoreProject/EntityLayer/EntityLayer.csproj": {
-              "projectPath": "/Users/onurmetin/Desktop/Traversal/TraversalCoreProject/EntityLayer/EntityLayer.csproj"
+            "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/EntityLayer/EntityLayer.csproj": {
+              "projectPath": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/EntityLayer/EntityLayer.csproj"
             }
           }
         }
