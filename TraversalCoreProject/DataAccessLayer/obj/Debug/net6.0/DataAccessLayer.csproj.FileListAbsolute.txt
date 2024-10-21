@@ -31,4 +31,5 @@
 /Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/DataAccessLayer/obj/Debug/net6.0/DataAccessLayer.pdb
 /Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/DataAccessLayer/obj/Debug/net6.0/DataAccessLayer.genruntimeconfig.cache
 /Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/DataAccessLayer/obj/Debug/net6.0/ref/DataAccessLayer.dll
-/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/DataAccessLayer/obj/Debug/net6.0/DataAccessLayer.csproj.CopyComplete
+/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/DataAccessLayer/obj/Debug/net6.0/DataAccessLayer.sourcelink.json
+/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/DataAccessLayer/obj/Debug/net6.0/DataAcce.E67BD773.Up2Date
