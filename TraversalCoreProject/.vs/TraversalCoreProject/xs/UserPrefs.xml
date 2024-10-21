@@ -1,18 +1,34 @@
 ﻿<Properties StartupConfiguration="{6B0E804C-F925-40B8-8346-5C71D1145323}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TraversalCoreProject PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TraversalCoreProject/Views/Login/SignUp.cshtml">
+    <Files>
+      <File FileName="TraversalCoreProject/Controllers/LoginController.cs" Line="58" Column="10" />
+      <File FileName="TraversalCoreProject/Views/Login/SignIn.cshtml" Line="75" Column="60" />
+      <File FileName="TraversalCoreProject/Views/Login/SignUp.cshtml" Line="40" Column="96" />
+      <File FileName="TraversalCoreProject/Models/UserRegisterViewModel.cs" Line="15" Column="31" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TraversalCoreProject" expanded="True" />
+          <Node name="TraversalCoreProject" expanded="True">
+            <Node name="TraversalCoreProject">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Login" expanded="True">
+                  <Node name="SignUp.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.TraversalCoreProject PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

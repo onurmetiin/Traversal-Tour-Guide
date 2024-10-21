@@ -1,7 +1,29 @@
-﻿var builder = WebApplication.CreateBuilder(args);
+﻿using DataAccessLayer.Concrete;
+using EntityLayer.Concrete;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc.Authorization;
+
+var builder = WebApplication.CreateBuilder(args);
+
+//burasını sonradan ekledik
+builder.Services.AddDbContext<Context>();
+//burasını sonradan ekledik
+builder.Services.AddIdentity<AppUser, AppRole>().AddEntityFrameworkStores<Context>();
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+//burasını sonradan ekledik
+builder.Services.AddMvc(config =>
+{
+    var policy = new AuthorizationPolicyBuilder()
+    .RequireAuthenticatedUser()
+    .Build();
+
+    config.Filters.Add(new AuthorizeFilter(policy));
+
+    //builder.Services.AddMvc();
+});
 
 var app = builder.Build();
 
@@ -15,6 +37,10 @@ if (!app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
+
+//burasını sonradan ekledik
+app.UseAuthentication();
+
 
 app.UseRouting();
 
