@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq.Expressions;
 using EntityLayer.Concrete;
 
 namespace DataAccessLayer.Abstract
@@ -9,6 +10,8 @@ namespace DataAccessLayer.Abstract
         void Delete(T t);
         void Update(T t);
         List<T> GetList();
+        T GetByID(int id);
+        List<T> GetListByFilter(Expression<Func<T, bool>> filter);
     }
 }
 

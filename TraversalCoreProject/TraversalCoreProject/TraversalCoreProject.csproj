@@ -42,6 +42,9 @@
     <None Remove="Views\Shared\Components\_SubAbout\" />
     <None Remove="Views\Shared\Components\_Testimonial\" />
     <None Remove="Views\Destination\" />
+    <None Remove="ViewComponents\Comment\" />
+    <None Remove="Views\Shared\Components\_CommentList\" />
+    <None Remove="Views\Comment\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Default\" />
@@ -56,5 +59,8 @@
     <Folder Include="Views\Shared\Components\_SubAbout\" />
     <Folder Include="Views\Shared\Components\_Testimonial\" />
     <Folder Include="Views\Destination\" />
+    <Folder Include="ViewComponents\Comment\" />
+    <Folder Include="Views\Shared\Components\_CommentList\" />
+    <Folder Include="Views\Comment\" />
   </ItemGroup>
 </Project>
