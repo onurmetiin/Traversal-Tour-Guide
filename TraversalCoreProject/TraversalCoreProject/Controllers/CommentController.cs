@@ -21,14 +21,14 @@ namespace TraversalCoreProject.Controllers
             return PartialView();
         }
 
-
         [HttpPost]
-        public PartialViewResult AddComment(Comment c)
+        public IActionResult AddComment(Comment p)
         {
-            c.CommentDate = Convert.ToDateTime(DateTime.Now.ToShortDateString());
-            c.CommentState = true;
-            commentManager.TAdd(c);
-            return PartialView();
+            p.CommentDate = Convert.ToDateTime(DateTime.Now.ToShortDateString());
+            p.CommentState = true;
+            commentManager.TAdd(p);
+
+            return RedirectToAction("Index", "Destination");
         }
     }
 }
