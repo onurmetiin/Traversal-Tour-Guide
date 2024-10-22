@@ -2,13 +2,18 @@
 using EntityLayer.Concrete;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc.Authorization;
+using TraversalCoreProject.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
 //burasını sonradan ekledik
 builder.Services.AddDbContext<Context>();
 //burasını sonradan ekledik
-builder.Services.AddIdentity<AppUser, AppRole>().AddEntityFrameworkStores<Context>();
+builder.Services
+    .AddIdentity<AppUser, AppRole>()
+    .AddEntityFrameworkStores<Context>()
+    .AddErrorDescriber<CustomIdentityValidator>()
+    .AddEntityFrameworkStores<Context>();
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
@@ -49,6 +54,15 @@ app.UseAuthorization();
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Default}/{action=Index}/{id?}");
+
+app.UseEndpoints(endpoint =>
+{
+    endpoint.MapControllerRoute
+    (
+        name: "areas",
+        pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}"
+    );
+});
 
 app.Run();
 

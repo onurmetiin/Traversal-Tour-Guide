@@ -36,7 +36,9 @@ namespace TraversalCoreProject.Controllers
                 Name = p.Name,
                 Surname = p.Surname,
                 Email = p.Mail,
-                UserName = p.Username
+                UserName = p.Username,
+                Gender = "Male",
+                ImageURL = "/colorlib-regform-26/images/image-2.png"
             };
 
             if(p.Password == p.ConfirmPassword)
