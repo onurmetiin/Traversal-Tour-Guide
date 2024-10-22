@@ -24,6 +24,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvTWVtYmVyL1ZpZXdzL0Rlc3RpbmF0aW9uL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/Areas/Member/Views/Profile/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvTWVtYmVyL1ZpZXdzL1Byb2ZpbGUvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/Areas/Member/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvTWVtYmVyL1ZpZXdzL19WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/Views/Comment/AddComment.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29tbWVudC9BZGRDb21tZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

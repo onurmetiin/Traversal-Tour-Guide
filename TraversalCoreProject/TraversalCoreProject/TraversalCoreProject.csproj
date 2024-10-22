@@ -57,6 +57,7 @@
     <None Remove="Areas\Member\Views\Comment\" />
     <None Remove="Views\MemberLayoutPartial\" />
     <None Remove="Areas\Member\Views\Destination\" />
+    <None Remove="Areas\Member\Views\Profile\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Default\" />
@@ -84,5 +85,6 @@
     <Folder Include="Areas\Member\Views\Comment\" />
     <Folder Include="Views\MemberLayoutPartial\" />
     <Folder Include="Areas\Member\Views\Destination\" />
+    <Folder Include="Areas\Member\Views\Profile\" />
   </ItemGroup>
 </Project>
