@@ -10,6 +10,7 @@ namespace TraversalCoreProject.Areas.Member.Models
 		public string phoneNumber { get; set; }
 		public string mail { get; set; }
         public string imageURL { get; set; }
+		public IFormFile Image { get; set; }
 	}
 }
 

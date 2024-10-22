@@ -86,5 +86,9 @@
     <Folder Include="Views\MemberLayoutPartial\" />
     <Folder Include="Areas\Member\Views\Destination\" />
     <Folder Include="Areas\Member\Views\Profile\" />
+    <Folder Include="wwwroot\UserImages\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="wwwroot\UserImages\" />
   </ItemGroup>
 </Project>
