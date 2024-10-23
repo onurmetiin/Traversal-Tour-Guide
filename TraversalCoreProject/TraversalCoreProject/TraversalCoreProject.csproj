@@ -59,6 +59,7 @@
     <None Remove="Areas\Member\Views\Destination\" />
     <None Remove="Areas\Member\Views\Profile\" />
     <None Remove="Areas\Member\Views\Reservation\" />
+    <None Remove="Areas\Member\Views\Dashboard\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Default\" />
@@ -89,6 +90,7 @@
     <Folder Include="Areas\Member\Views\Profile\" />
     <Folder Include="wwwroot\UserImages\" />
     <Folder Include="Areas\Member\Views\Reservation\" />
+    <Folder Include="Areas\Member\Views\Dashboard\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\UserImages\" />

@@ -26,4 +26,3 @@
 /Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/EntityLayer/obj/Debug/net6.0/EntityLayer.pdb
 /Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/EntityLayer/obj/Debug/net6.0/EntityLayer.genruntimeconfig.cache
 /Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/EntityLayer/obj/Debug/net6.0/ref/EntityLayer.dll
-/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/EntityLayer/obj/Debug/net6.0/EntityLayer.sourcelink.json

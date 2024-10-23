@@ -22,15 +22,15 @@
             <th>Rezervasyon Tarihi</th>
             <th>Durum</th>
         </tr>
-        <tr>
             @foreach (var item in Model)
             {
-                <td>@item.ReservationID</td>
-                <td>@item.Destination.City</td>
-                <td>@item.PersonCount</td>
-                <td>@item.ReservationDate</td>
-                <td>@item.Status</td>
+                <tr>
+                    <td>@item.ReservationID</td>
+                    <td>@item.Destination.City</td>
+                    <td>@item.PersonCount</td>
+                    <td>@item.ReservationDate</td>
+                    <td>@item.Status</td>
+                </tr>
             }
-        </tr>
     </table>
 }
