@@ -1,0 +1,1033 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/obj/Debug/net6.0/scopedcss/projectbundle/TraversalCoreProject.bundle.scp.css",
+      "PackagePath": "staticwebassets/TraversalCoreProject.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/css/main.css",
+      "PackagePath": "staticwebassets/Login_v1/css/main.css"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/css/util.css",
+      "PackagePath": "staticwebassets/Login_v1/css/util.css"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/font-awesome-4.7.0/HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets/Login_v1/fonts/font-awesome-4.7.0/HELP-US-OUT.txt"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/font-awesome-4.7.0/css/font-awesome.css",
+      "PackagePath": "staticwebassets/Login_v1/fonts/font-awesome-4.7.0/css/font-awesome.css"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/font-awesome-4.7.0/css/font-awesome.min.css",
+      "PackagePath": "staticwebassets/Login_v1/fonts/font-awesome-4.7.0/css/font-awesome.min.css"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/font-awesome-4.7.0/fonts/FontAwesome.otf",
+      "PackagePath": "staticwebassets/Login_v1/fonts/font-awesome-4.7.0/fonts/FontAwesome.otf"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets/Login_v1/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets/Login_v1/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets/Login_v1/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets/Login_v1/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets/Login_v1/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/font-awesome-4.7.0/less/animated.less",
+      "PackagePath": "staticwebassets/Login_v1/fonts/font-awesome-4.7.0/less/animated.less"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/font-awesome-4.7.0/less/bordered-pulled.less",
+      "PackagePath": "staticwebassets/Login_v1/fonts/font-awesome-4.7.0/less/bordered-pulled.less"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/font-awesome-4.7.0/less/core.less",
+      "PackagePath": "staticwebassets/Login_v1/fonts/font-awesome-4.7.0/less/core.less"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/font-awesome-4.7.0/less/fixed-width.less",
+      "PackagePath": "staticwebassets/Login_v1/fonts/font-awesome-4.7.0/less/fixed-width.less"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/font-awesome-4.7.0/less/font-awesome.less",
+      "PackagePath": "staticwebassets/Login_v1/fonts/font-awesome-4.7.0/less/font-awesome.less"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/font-awesome-4.7.0/less/icons.less",
+      "PackagePath": "staticwebassets/Login_v1/fonts/font-awesome-4.7.0/less/icons.less"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/font-awesome-4.7.0/less/larger.less",
+      "PackagePath": "staticwebassets/Login_v1/fonts/font-awesome-4.7.0/less/larger.less"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/font-awesome-4.7.0/less/list.less",
+      "PackagePath": "staticwebassets/Login_v1/fonts/font-awesome-4.7.0/less/list.less"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/font-awesome-4.7.0/less/mixins.less",
+      "PackagePath": "staticwebassets/Login_v1/fonts/font-awesome-4.7.0/less/mixins.less"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/font-awesome-4.7.0/less/path.less",
+      "PackagePath": "staticwebassets/Login_v1/fonts/font-awesome-4.7.0/less/path.less"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/font-awesome-4.7.0/less/rotated-flipped.less",
+      "PackagePath": "staticwebassets/Login_v1/fonts/font-awesome-4.7.0/less/rotated-flipped.less"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/font-awesome-4.7.0/less/screen-reader.less",
+      "PackagePath": "staticwebassets/Login_v1/fonts/font-awesome-4.7.0/less/screen-reader.less"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/font-awesome-4.7.0/less/stacked.less",
+      "PackagePath": "staticwebassets/Login_v1/fonts/font-awesome-4.7.0/less/stacked.less"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/font-awesome-4.7.0/less/variables.less",
+      "PackagePath": "staticwebassets/Login_v1/fonts/font-awesome-4.7.0/less/variables.less"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/font-awesome-4.7.0/scss/_animated.scss",
+      "PackagePath": "staticwebassets/Login_v1/fonts/font-awesome-4.7.0/scss/_animated.scss"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/font-awesome-4.7.0/scss/_bordered-pulled.scss",
+      "PackagePath": "staticwebassets/Login_v1/fonts/font-awesome-4.7.0/scss/_bordered-pulled.scss"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/font-awesome-4.7.0/scss/_core.scss",
+      "PackagePath": "staticwebassets/Login_v1/fonts/font-awesome-4.7.0/scss/_core.scss"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/font-awesome-4.7.0/scss/_fixed-width.scss",
+      "PackagePath": "staticwebassets/Login_v1/fonts/font-awesome-4.7.0/scss/_fixed-width.scss"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/font-awesome-4.7.0/scss/_icons.scss",
+      "PackagePath": "staticwebassets/Login_v1/fonts/font-awesome-4.7.0/scss/_icons.scss"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/font-awesome-4.7.0/scss/_larger.scss",
+      "PackagePath": "staticwebassets/Login_v1/fonts/font-awesome-4.7.0/scss/_larger.scss"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/font-awesome-4.7.0/scss/_list.scss",
+      "PackagePath": "staticwebassets/Login_v1/fonts/font-awesome-4.7.0/scss/_list.scss"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/font-awesome-4.7.0/scss/_mixins.scss",
+      "PackagePath": "staticwebassets/Login_v1/fonts/font-awesome-4.7.0/scss/_mixins.scss"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/font-awesome-4.7.0/scss/_path.scss",
+      "PackagePath": "staticwebassets/Login_v1/fonts/font-awesome-4.7.0/scss/_path.scss"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/font-awesome-4.7.0/scss/_rotated-flipped.scss",
+      "PackagePath": "staticwebassets/Login_v1/fonts/font-awesome-4.7.0/scss/_rotated-flipped.scss"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/font-awesome-4.7.0/scss/_screen-reader.scss",
+      "PackagePath": "staticwebassets/Login_v1/fonts/font-awesome-4.7.0/scss/_screen-reader.scss"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/font-awesome-4.7.0/scss/_stacked.scss",
+      "PackagePath": "staticwebassets/Login_v1/fonts/font-awesome-4.7.0/scss/_stacked.scss"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/font-awesome-4.7.0/scss/_variables.scss",
+      "PackagePath": "staticwebassets/Login_v1/fonts/font-awesome-4.7.0/scss/_variables.scss"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/font-awesome-4.7.0/scss/font-awesome.scss",
+      "PackagePath": "staticwebassets/Login_v1/fonts/font-awesome-4.7.0/scss/font-awesome.scss"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/montserrat/Montserrat-Black.ttf",
+      "PackagePath": "staticwebassets/Login_v1/fonts/montserrat/Montserrat-Black.ttf"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/montserrat/Montserrat-BlackItalic.ttf",
+      "PackagePath": "staticwebassets/Login_v1/fonts/montserrat/Montserrat-BlackItalic.ttf"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/montserrat/Montserrat-Bold.ttf",
+      "PackagePath": "staticwebassets/Login_v1/fonts/montserrat/Montserrat-Bold.ttf"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/montserrat/Montserrat-BoldItalic.ttf",
+      "PackagePath": "staticwebassets/Login_v1/fonts/montserrat/Montserrat-BoldItalic.ttf"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/montserrat/Montserrat-ExtraBold.ttf",
+      "PackagePath": "staticwebassets/Login_v1/fonts/montserrat/Montserrat-ExtraBold.ttf"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/montserrat/Montserrat-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets/Login_v1/fonts/montserrat/Montserrat-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/montserrat/Montserrat-ExtraLight.ttf",
+      "PackagePath": "staticwebassets/Login_v1/fonts/montserrat/Montserrat-ExtraLight.ttf"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/montserrat/Montserrat-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets/Login_v1/fonts/montserrat/Montserrat-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/montserrat/Montserrat-Italic.ttf",
+      "PackagePath": "staticwebassets/Login_v1/fonts/montserrat/Montserrat-Italic.ttf"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/montserrat/Montserrat-Light.ttf",
+      "PackagePath": "staticwebassets/Login_v1/fonts/montserrat/Montserrat-Light.ttf"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/montserrat/Montserrat-LightItalic.ttf",
+      "PackagePath": "staticwebassets/Login_v1/fonts/montserrat/Montserrat-LightItalic.ttf"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/montserrat/Montserrat-Medium.ttf",
+      "PackagePath": "staticwebassets/Login_v1/fonts/montserrat/Montserrat-Medium.ttf"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/montserrat/Montserrat-MediumItalic.ttf",
+      "PackagePath": "staticwebassets/Login_v1/fonts/montserrat/Montserrat-MediumItalic.ttf"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/montserrat/Montserrat-Regular.ttf",
+      "PackagePath": "staticwebassets/Login_v1/fonts/montserrat/Montserrat-Regular.ttf"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/montserrat/Montserrat-SemiBold.ttf",
+      "PackagePath": "staticwebassets/Login_v1/fonts/montserrat/Montserrat-SemiBold.ttf"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/montserrat/Montserrat-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets/Login_v1/fonts/montserrat/Montserrat-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/montserrat/Montserrat-Thin.ttf",
+      "PackagePath": "staticwebassets/Login_v1/fonts/montserrat/Montserrat-Thin.ttf"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/montserrat/Montserrat-ThinItalic.ttf",
+      "PackagePath": "staticwebassets/Login_v1/fonts/montserrat/Montserrat-ThinItalic.ttf"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/montserrat/OFL.txt",
+      "PackagePath": "staticwebassets/Login_v1/fonts/montserrat/OFL.txt"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/poppins/Poppins-Black.ttf",
+      "PackagePath": "staticwebassets/Login_v1/fonts/poppins/Poppins-Black.ttf"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/poppins/Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets/Login_v1/fonts/poppins/Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/poppins/Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets/Login_v1/fonts/poppins/Poppins-Bold.ttf"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/poppins/Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets/Login_v1/fonts/poppins/Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/poppins/Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets/Login_v1/fonts/poppins/Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/poppins/Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets/Login_v1/fonts/poppins/Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/poppins/Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets/Login_v1/fonts/poppins/Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/poppins/Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets/Login_v1/fonts/poppins/Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/poppins/Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets/Login_v1/fonts/poppins/Poppins-Italic.ttf"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/poppins/Poppins-Light.ttf",
+      "PackagePath": "staticwebassets/Login_v1/fonts/poppins/Poppins-Light.ttf"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/poppins/Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets/Login_v1/fonts/poppins/Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/poppins/Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets/Login_v1/fonts/poppins/Poppins-Medium.ttf"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/poppins/Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets/Login_v1/fonts/poppins/Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/poppins/Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets/Login_v1/fonts/poppins/Poppins-Regular.ttf"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/poppins/Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets/Login_v1/fonts/poppins/Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/poppins/Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets/Login_v1/fonts/poppins/Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/poppins/Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets/Login_v1/fonts/poppins/Poppins-Thin.ttf"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/fonts/poppins/Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets/Login_v1/fonts/poppins/Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/images/icons/favicon.ico",
+      "PackagePath": "staticwebassets/Login_v1/images/icons/favicon.ico"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/images/img-01.png",
+      "PackagePath": "staticwebassets/Login_v1/images/img-01.png"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/index.html",
+      "PackagePath": "staticwebassets/Login_v1/index.html"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/js/main.js",
+      "PackagePath": "staticwebassets/Login_v1/js/main.js"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/vendor/animate/animate.css",
+      "PackagePath": "staticwebassets/Login_v1/vendor/animate/animate.css"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/vendor/bootstrap/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/Login_v1/vendor/bootstrap/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/vendor/bootstrap/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/Login_v1/vendor/bootstrap/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/vendor/bootstrap/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/Login_v1/vendor/bootstrap/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/vendor/bootstrap/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/Login_v1/vendor/bootstrap/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/vendor/bootstrap/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/Login_v1/vendor/bootstrap/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/vendor/bootstrap/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/Login_v1/vendor/bootstrap/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/vendor/bootstrap/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/Login_v1/vendor/bootstrap/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/vendor/bootstrap/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/Login_v1/vendor/bootstrap/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/vendor/bootstrap/css/bootstrap.css",
+      "PackagePath": "staticwebassets/Login_v1/vendor/bootstrap/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/vendor/bootstrap/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/Login_v1/vendor/bootstrap/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/vendor/bootstrap/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/Login_v1/vendor/bootstrap/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/vendor/bootstrap/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/Login_v1/vendor/bootstrap/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/vendor/bootstrap/js/bootstrap.js",
+      "PackagePath": "staticwebassets/Login_v1/vendor/bootstrap/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/vendor/bootstrap/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/Login_v1/vendor/bootstrap/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/vendor/bootstrap/js/popper.js",
+      "PackagePath": "staticwebassets/Login_v1/vendor/bootstrap/js/popper.js"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/vendor/bootstrap/js/popper.min.js",
+      "PackagePath": "staticwebassets/Login_v1/vendor/bootstrap/js/popper.min.js"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/vendor/bootstrap/js/tooltip.js",
+      "PackagePath": "staticwebassets/Login_v1/vendor/bootstrap/js/tooltip.js"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/vendor/css-hamburgers/hamburgers.css",
+      "PackagePath": "staticwebassets/Login_v1/vendor/css-hamburgers/hamburgers.css"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/vendor/css-hamburgers/hamburgers.min.css",
+      "PackagePath": "staticwebassets/Login_v1/vendor/css-hamburgers/hamburgers.min.css"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/vendor/jquery/jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets/Login_v1/vendor/jquery/jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/vendor/select2/select2.css",
+      "PackagePath": "staticwebassets/Login_v1/vendor/select2/select2.css"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/vendor/select2/select2.js",
+      "PackagePath": "staticwebassets/Login_v1/vendor/select2/select2.js"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/vendor/select2/select2.min.css",
+      "PackagePath": "staticwebassets/Login_v1/vendor/select2/select2.min.css"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/vendor/select2/select2.min.js",
+      "PackagePath": "staticwebassets/Login_v1/vendor/select2/select2.min.js"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Login_v1/vendor/tilt/tilt.jquery.min.js",
+      "PackagePath": "staticwebassets/Login_v1/vendor/tilt/tilt.jquery.min.js"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/.DS_Store",
+      "PackagePath": "staticwebassets/Traversal-Theme/.DS_Store"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/about.html",
+      "PackagePath": "staticwebassets/Traversal-Theme/about.html"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/.DS_Store",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/.DS_Store"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/css/.DS_Store",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/css/.DS_Store"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/css/style-starter.css",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/css/style-starter.css"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/fonts/FontAwesome.otf",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/fonts/FontAwesome.otf"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/fonts/fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/fonts/fontawesome-webfont.eot"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/fonts/fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/fonts/fontawesome-webfont.svg"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/fonts/fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/fonts/fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/fonts/fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/fonts/fontawesome-webfont.woff"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/fonts/fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/fonts/fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/images/banner1.jpg",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/images/banner1.jpg"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/images/banner2.jpg",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/images/banner2.jpg"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/images/banner3.jpg",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/images/banner3.jpg"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/images/banner4.jpg",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/images/banner4.jpg"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/images/c1.jpg",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/images/c1.jpg"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/images/c2.jpg",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/images/c2.jpg"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/images/c3.jpg",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/images/c3.jpg"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/images/c4.jpg",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/images/c4.jpg"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/images/close.png",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/images/close.png"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/images/date.png",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/images/date.png"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/images/dots.png",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/images/dots.png"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/images/down.png",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/images/down.png"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/images/g1.jpg",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/images/g1.jpg"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/images/g10.jpg",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/images/g10.jpg"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/images/g2.jpg",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/images/g2.jpg"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/images/g3.jpg",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/images/g3.jpg"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/images/g4.jpg",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/images/g4.jpg"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/images/g5.jpg",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/images/g5.jpg"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/images/g6.jpg",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/images/g6.jpg"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/images/g7.jpg",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/images/g7.jpg"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/images/g8.jpg",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/images/g8.jpg"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/images/g9.jpg",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/images/g9.jpg"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/images/img-sprite.png",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/images/img-sprite.png"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/images/team1.jpg",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/images/team1.jpg"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/images/team2.jpg",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/images/team2.jpg"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/images/team3.jpg",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/images/team3.jpg"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/images/team4.jpg",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/images/team4.jpg"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/js/all.js",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/js/all.js"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/js/app.js",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/js/app.js"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/js/jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/js/jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/js/jquery.countup.js",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/js/jquery.countup.js"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/js/jquery.min.js",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/js/jquery.min.js"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/js/jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/js/jquery.waypoints.min.js"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/js/jquery.zoomslider.min.js",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/js/jquery.zoomslider.min.js"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/js/lightbox-plus-jquery.min.js",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/js/lightbox-plus-jquery.min.js"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/js/main.js",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/js/main.js"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/js/modernizr-2.6.2.min.js",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/js/modernizr-2.6.2.min.js"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/js/owl.carousel.js",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/js/owl.carousel.js"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/js/popper.min.js",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/js/popper.min.js"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/assets/js/theme-change.js",
+      "PackagePath": "staticwebassets/Traversal-Theme/assets/js/theme-change.js"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/blog-single.html",
+      "PackagePath": "staticwebassets/Traversal-Theme/blog-single.html"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/blog.html",
+      "PackagePath": "staticwebassets/Traversal-Theme/blog.html"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/contact.html",
+      "PackagePath": "staticwebassets/Traversal-Theme/contact.html"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/index.html",
+      "PackagePath": "staticwebassets/Traversal-Theme/index.html"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/landing-single.html",
+      "PackagePath": "staticwebassets/Traversal-Theme/landing-single.html"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/liberty-license-W3Layouts.txt",
+      "PackagePath": "staticwebassets/Traversal-Theme/liberty-license-W3Layouts.txt"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/pricing.html",
+      "PackagePath": "staticwebassets/Traversal-Theme/pricing.html"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/Traversal-Theme/services.html",
+      "PackagePath": "staticwebassets/Traversal-Theme/services.html"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/UserImages/17c9b7a2-6cbe-46ac-8d5d-9fe48937f4ba.png",
+      "PackagePath": "staticwebassets/UserImages/17c9b7a2-6cbe-46ac-8d5d-9fe48937f4ba.png"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/colorlib-regform-26/css/style.css",
+      "PackagePath": "staticwebassets/colorlib-regform-26/css/style.css"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/colorlib-regform-26/css/style.css.map",
+      "PackagePath": "staticwebassets/colorlib-regform-26/css/style.css.map"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/colorlib-regform-26/css/style.scss",
+      "PackagePath": "staticwebassets/colorlib-regform-26/css/style.scss"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/colorlib-regform-26/fonts/linearicons/Read Me.txt",
+      "PackagePath": "staticwebassets/colorlib-regform-26/fonts/linearicons/Read Me.txt"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/colorlib-regform-26/fonts/linearicons/fonts/Linearicons-Free.eot",
+      "PackagePath": "staticwebassets/colorlib-regform-26/fonts/linearicons/fonts/Linearicons-Free.eot"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/colorlib-regform-26/fonts/linearicons/fonts/Linearicons-Free.svg",
+      "PackagePath": "staticwebassets/colorlib-regform-26/fonts/linearicons/fonts/Linearicons-Free.svg"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/colorlib-regform-26/fonts/linearicons/fonts/Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets/colorlib-regform-26/fonts/linearicons/fonts/Linearicons-Free.ttf"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/colorlib-regform-26/fonts/linearicons/fonts/Linearicons-Free.woff",
+      "PackagePath": "staticwebassets/colorlib-regform-26/fonts/linearicons/fonts/Linearicons-Free.woff"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/colorlib-regform-26/fonts/linearicons/fonts/Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets/colorlib-regform-26/fonts/linearicons/fonts/Linearicons-Free.woff2"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/colorlib-regform-26/fonts/linearicons/selection.json",
+      "PackagePath": "staticwebassets/colorlib-regform-26/fonts/linearicons/selection.json"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/colorlib-regform-26/fonts/linearicons/style.css",
+      "PackagePath": "staticwebassets/colorlib-regform-26/fonts/linearicons/style.css"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/colorlib-regform-26/fonts/muli/Muli-Bold.ttf",
+      "PackagePath": "staticwebassets/colorlib-regform-26/fonts/muli/Muli-Bold.ttf"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/colorlib-regform-26/fonts/muli/Muli-Regular.ttf",
+      "PackagePath": "staticwebassets/colorlib-regform-26/fonts/muli/Muli-Regular.ttf"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/colorlib-regform-26/fonts/muli/Muli-SemiBold.ttf",
+      "PackagePath": "staticwebassets/colorlib-regform-26/fonts/muli/Muli-SemiBold.ttf"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/colorlib-regform-26/images/image-1.png",
+      "PackagePath": "staticwebassets/colorlib-regform-26/images/image-1.png"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/colorlib-regform-26/images/image-2.png",
+      "PackagePath": "staticwebassets/colorlib-regform-26/images/image-2.png"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/colorlib-regform-26/index.html",
+      "PackagePath": "staticwebassets/colorlib-regform-26/index.html"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/colorlib-regform-26/js/jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets/colorlib-regform-26/js/jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/colorlib-regform-26/js/main.js",
+      "PackagePath": "staticwebassets/colorlib-regform-26/js/main.js"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/colorlib-regform-26/readme.txt",
+      "PackagePath": "staticwebassets/colorlib-regform-26/readme.txt"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/web/css/style.css",
+      "PackagePath": "staticwebassets/web/css/style.css"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/web/images/banner1.jpg",
+      "PackagePath": "staticwebassets/web/images/banner1.jpg"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/web/index.html",
+      "PackagePath": "staticwebassets/web/index.html"
+    },
+    {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/web/w3layouts-license.txt",
+      "PackagePath": "staticwebassets/web/w3layouts-license.txt"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.TraversalCoreProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.TraversalCoreProject.props",
+      "PackagePath": "build\\TraversalCoreProject.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.TraversalCoreProject.props",
+      "PackagePath": "buildMultiTargeting\\TraversalCoreProject.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.TraversalCoreProject.props",
+      "PackagePath": "buildTransitive\\TraversalCoreProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
