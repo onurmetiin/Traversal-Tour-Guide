@@ -1,36 +1,43 @@
 ﻿<Properties StartupConfiguration="{6B0E804C-F925-40B8-8346-5C71D1145323}|Default">
-  <MonoDevelop.Ide.ItemProperties.TraversalCoreProject PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TraversalCoreProject PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="TraversalCoreProject/Areas/Member/Views/Destination/Index.cshtml">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TraversalCoreProject/Areas/Member/Views/Reservation/MyOldReservation.cshtml">
     <Files>
-      <File FileName="TraversalCoreProject/Views/Shared/_UserLayout.cshtml" Line="7" Column="69" />
-      <File FileName="TraversalCoreProject/Areas/Member/Controllers/DestinationController.cs" Line="14" Column="20" />
-      <File FileName="TraversalCoreProject/Areas/Member/Views/Destination/Index.cshtml" Line="8" Column="1" />
-      <File FileName="TraversalCoreProject/Areas/Member/Controllers/CommentController.cs" Line="1" Column="1" />
-      <File FileName="TraversalCoreProject/Views/MemberLayoutPartial/_HeaderPartial.cshtml" Line="1" Column="1" />
-      <File FileName="TraversalCoreProject/Areas/Member/Views/Comment/Index.cshtml" Line="1" Column="1" />
+      <File FileName="TraversalCoreProject/Areas/Member/Controllers/ReservationController.cs" Line="21" Column="1" />
+      <File FileName="TraversalCoreProject/Areas/Member/Views/Reservation/MyCurrentReservation.cshtml" Line="11" Column="1" />
+      <File FileName="TraversalCoreProject/Areas/Member/Views/Reservation/MyOldReservation.cshtml" Line="3" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TraversalCoreProject">
+          <Node name="TraversalCoreProject" expanded="True">
+            <Node name="BusinessLayer">
+              <Node name="Abstract" expanded="True" />
+              <Node name="Concrete" expanded="True" />
+            </Node>
+            <Node name="DataAccessLayer" expanded="True">
+              <Node name="Abstract" expanded="True" />
+              <Node name="Concrete" expanded="True" />
+              <Node name="Repository" expanded="True" />
+            </Node>
+            <Node name="EntityLayer" expanded="True">
+              <Node name="Concrete" expanded="True" />
+            </Node>
             <Node name="TraversalCoreProject">
-              <Node name="Areas">
-                <Node name="Member">
+              <Node name="Areas" expanded="True">
+                <Node name="Member" expanded="True">
                   <Node name="Controllers" expanded="True" />
                   <Node name="Views" expanded="True">
-                    <Node name="Comment" expanded="True" />
-                    <Node name="Destination" expanded="True">
-                      <Node name="Index.cshtml" selected="True" />
+                    <Node name="Reservation" expanded="True">
+                      <Node name="MyOldReservation.cshtml" selected="True" />
                     </Node>
                   </Node>
                 </Node>
-              </Node>
-              <Node name="Views">
-                <Node name="Default" expanded="True" />
               </Node>
             </Node>
           </Node>
@@ -38,6 +45,4 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
 </Properties>
