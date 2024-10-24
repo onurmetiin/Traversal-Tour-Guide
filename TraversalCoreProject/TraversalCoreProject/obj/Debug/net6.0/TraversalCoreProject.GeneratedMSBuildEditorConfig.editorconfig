@@ -132,6 +132,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0ZlYXR1cmUvRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/Views/Shared/Components/_GuideList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0d1aWRlTGlzdC9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/Views/Shared/Components/_PlatformSetting/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX1BsYXRmb3JtU2V0dGluZy9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/Views/Shared/Components/_PopulerDestinationsPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX1BvcHVsZXJEZXN0aW5hdGlvbnNQYXJ0aWFsL0RlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

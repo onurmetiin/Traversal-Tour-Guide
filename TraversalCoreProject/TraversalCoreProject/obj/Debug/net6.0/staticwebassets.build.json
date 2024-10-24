@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xGsDM31PpBE17M/OF5ZnT+ZlyJsAOjtKnLswWk+7x/Q=",
+  "Hash": "MSeuISWjp5ljatJ2L163BzUuWJMlvQmVo/SSZfg2E5I=",
   "Source": "TraversalCoreProject",
   "BasePath": "_content/TraversalCoreProject",
   "Mode": "Default",
@@ -3245,6 +3245,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/soft-ui-dashboard/.gitattributes"
+    },
+    {
+      "Identity": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/soft-ui-dashboard/assets/.DS_Store",
+      "SourceId": "TraversalCoreProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/",
+      "BasePath": "_content/TraversalCoreProject",
+      "RelativePath": "soft-ui-dashboard/assets/.DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/soft-ui-dashboard/assets/.DS_Store"
     },
     {
       "Identity": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/soft-ui-dashboard/assets/css/nucleo-icons.css",

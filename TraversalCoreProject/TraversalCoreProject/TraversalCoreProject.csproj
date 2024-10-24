@@ -62,6 +62,8 @@
     <None Remove="Areas\Member\Views\Dashboard\" />
     <None Remove="ViewComponents\MemberDashboard\" />
     <None Remove="Views\Shared\Components\_ProfileInformation\" />
+    <None Remove="Views\Shared\Components\_GuideList\" />
+    <None Remove="Views\Shared\Components\_PlatformSetting\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Default\" />
@@ -95,6 +97,8 @@
     <Folder Include="Areas\Member\Views\Dashboard\" />
     <Folder Include="ViewComponents\MemberDashboard\" />
     <Folder Include="Views\Shared\Components\_ProfileInformation\" />
+    <Folder Include="Views\Shared\Components\_GuideList\" />
+    <Folder Include="Views\Shared\Components\_PlatformSetting\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\UserImages\" />

@@ -1017,6 +1017,10 @@
       "PackagePath": "staticwebassets/soft-ui-dashboard/README.md"
     },
     {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/soft-ui-dashboard/assets/.DS_Store",
+      "PackagePath": "staticwebassets/soft-ui-dashboard/assets/.DS_Store"
+    },
+    {
       "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/soft-ui-dashboard/assets/css/nucleo-icons.css",
       "PackagePath": "staticwebassets/soft-ui-dashboard/assets/css/nucleo-icons.css"
     },
