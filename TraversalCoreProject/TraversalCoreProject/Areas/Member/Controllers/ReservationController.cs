@@ -17,6 +17,7 @@ namespace TraversalCoreProject.Areas.Member.Controllers
         DestinationManager destinationManager = new DestinationManager(new EfDestinationDal());
         ReservationManager reservationManager = new ReservationManager(new EfReservationDal());
 
+
         private readonly UserManager<AppUser> _userManager;
         public ReservationController(UserManager<AppUser> userManager)
         {
@@ -59,9 +60,11 @@ namespace TraversalCoreProject.Areas.Member.Controllers
         }
 
         [HttpPost]
-        public IActionResult NewReservation(Reservation p)
+        public async Task<IActionResult> NewReservation(Reservation p)
         {
-            p.appUserID = 5;
+            var us = await _userManager.FindByNameAsync(User.Identity.Name);
+
+            p.appUserID = us.Id;
             p.Status = "Onay Bekliyor";
             reservationManager.TAdd(p);
             return RedirectToAction("MyCurrentReservation");

@@ -60,6 +60,8 @@
     <None Remove="Areas\Member\Views\Profile\" />
     <None Remove="Areas\Member\Views\Reservation\" />
     <None Remove="Areas\Member\Views\Dashboard\" />
+    <None Remove="ViewComponents\MemberDashboard\" />
+    <None Remove="Views\Shared\Components\_ProfileInformation\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Default\" />
@@ -91,6 +93,8 @@
     <Folder Include="wwwroot\UserImages\" />
     <Folder Include="Areas\Member\Views\Reservation\" />
     <Folder Include="Areas\Member\Views\Dashboard\" />
+    <Folder Include="ViewComponents\MemberDashboard\" />
+    <Folder Include="Views\Shared\Components\_ProfileInformation\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\UserImages\" />
