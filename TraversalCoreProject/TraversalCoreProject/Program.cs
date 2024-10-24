@@ -64,5 +64,15 @@ app.UseEndpoints(endpoint =>
     );
 });
 
+
+app.UseEndpoints(endpoint =>
+{
+    endpoint.MapControllerRoute
+    (
+        name: "areas",
+        pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}"
+    );
+});
+
 app.Run();
 
