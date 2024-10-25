@@ -23,6 +23,12 @@ builder.Services
 builder.Services.AddScoped<ICommentService, CommentManager>();
 builder.Services.AddScoped<ICommentDal, EfCommentDal>();
 
+builder.Services.AddScoped<IDestinationService, DestinationManager>();
+builder.Services.AddScoped<IDestinationDal, EfDestinationDal>();
+
+builder.Services.AddScoped<IAppUserService, AppUserManager>();
+builder.Services.AddScoped<IAppUserDal, EfAppUserDal>();
+
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
