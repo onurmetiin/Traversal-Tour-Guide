@@ -18,6 +18,26 @@ namespace TraversalCoreProject.Controllers
         {
             return PartialView();
         }
+
+        public PartialViewResult SideBarPartial()
+        {
+            return PartialView();
+        }
+
+        public PartialViewResult NavBarPartial()
+        {
+            return PartialView();
+        }
+
+        public PartialViewResult FooterPartial()
+        {
+            return PartialView();
+        }
+
+        public PartialViewResult ScriptPartial()
+        {
+            return PartialView();
+        }
     }
 }
 
