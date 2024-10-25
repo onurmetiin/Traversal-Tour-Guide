@@ -28,10 +28,12 @@
     <None Remove="Abstract\" />
     <None Remove="Concrete\" />
     <None Remove="ValidationRules\" />
+    <None Remove="Container\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Abstract\" />
     <Folder Include="Concrete\" />
     <Folder Include="ValidationRules\" />
+    <Folder Include="Container\" />
   </ItemGroup>
 </Project>
