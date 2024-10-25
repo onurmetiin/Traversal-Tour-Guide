@@ -70,6 +70,9 @@
     <None Remove="Areas\Admin\Views\" />
     <None Remove="Areas\Admin\Views\Destination\" />
     <None Remove="Views\Admin\" />
+    <None Remove="Areas\Admin\Views\Dashboard\" />
+    <None Remove="ViewComponents\AdminDashboard\" />
+    <None Remove="Views\Shared\Components\_DashboardBanner\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Default\" />
@@ -111,6 +114,9 @@
     <Folder Include="Areas\Admin\Views\" />
     <Folder Include="Areas\Admin\Views\Destination\" />
     <Folder Include="Views\Admin\" />
+    <Folder Include="Areas\Admin\Views\Dashboard\" />
+    <Folder Include="ViewComponents\AdminDashboard\" />
+    <Folder Include="Views\Shared\Components\_DashboardBanner\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\UserImages\" />
