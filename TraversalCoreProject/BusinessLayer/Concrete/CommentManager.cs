@@ -21,12 +21,12 @@ namespace BusinessLayer.Concrete
 
         public void TDelete(Comment t)
         {
-            
+            _commentDal.Delete(t);
         }
 
         public Comment TGetByID(int id)
         {
-            throw new NotImplementedException();
+            return _commentDal.GetByID(id);
         }
 
         public List<Comment> TGetDestinationByID(int id)
@@ -36,12 +36,17 @@ namespace BusinessLayer.Concrete
 
         public List<Comment> TGetList()
         {
-            throw new NotImplementedException();
+            return _commentDal.GetList();
+        }
+
+        public List<Comment> TGetListCommentWithDestination()
+        {
+            return _commentDal.GetlistCommentWithDestination();
         }
 
         public void TUpdate(Comment t)
         {
-            
+            _commentDal.Update(t);
         }
     }
 }

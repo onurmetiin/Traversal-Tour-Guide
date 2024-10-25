@@ -1,4 +1,8 @@
-﻿using DataAccessLayer.Concrete;
+﻿using BusinessLayer.Abstract;
+using BusinessLayer.Concrete;
+using DataAccessLayer.Abstract;
+using DataAccessLayer.Concrete;
+using DataAccessLayer.EntityFramework;
 using EntityLayer.Concrete;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc.Authorization;
@@ -14,6 +18,10 @@ builder.Services
     .AddEntityFrameworkStores<Context>()
     .AddErrorDescriber<CustomIdentityValidator>()
     .AddEntityFrameworkStores<Context>();
+
+//burası sonradan eklendi (Controller tarafında sürekli manageri newlememek için I..Service i verdik onun için burası)
+builder.Services.AddScoped<ICommentService, CommentManager>();
+builder.Services.AddScoped<ICommentDal, EfCommentDal>();
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();

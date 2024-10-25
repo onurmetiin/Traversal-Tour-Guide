@@ -73,6 +73,7 @@
     <None Remove="Areas\Admin\Views\Dashboard\" />
     <None Remove="ViewComponents\AdminDashboard\" />
     <None Remove="Views\Shared\Components\_DashboardBanner\" />
+    <None Remove="Areas\Admin\Views\Comment\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Default\" />
@@ -117,6 +118,7 @@
     <Folder Include="Areas\Admin\Views\Dashboard\" />
     <Folder Include="ViewComponents\AdminDashboard\" />
     <Folder Include="Views\Shared\Components\_DashboardBanner\" />
+    <Folder Include="Areas\Admin\Views\Comment\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\UserImages\" />
