@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "YaBIwUMa/bc=",
+  "dgSpecHash": "+G6O04W9uOY2lSu/y3jLpo8eI9TwHtUdwHl584BZwhQUk+IcKpvOIAE2+0A9RTLlqwHV+zPrZVu/QilKpgaUgA==",
   "success": true,
   "projectFilePath": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/DataAccessLayer/DataAccessLayer.csproj",
   "expectedPackageFiles": [
@@ -75,8 +75,8 @@
     "/Users/onurmetin/.nuget/packages/system.text.encoding.codepages/4.7.0/system.text.encoding.codepages.4.7.0.nupkg.sha512",
     "/Users/onurmetin/.nuget/packages/system.text.encodings.web/4.5.0/system.text.encodings.web.4.5.0.nupkg.sha512",
     "/Users/onurmetin/.nuget/packages/system.windows.extensions/4.7.0/system.windows.extensions.4.7.0.nupkg.sha512",
-    "/Users/onurmetin/.nuget/packages/microsoft.netcore.app.ref/6.0.35/microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
-    "/Users/onurmetin/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.35/microsoft.aspnetcore.app.ref.6.0.35.nupkg.sha512"
+    "/Users/onurmetin/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/onurmetin/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
   ],
   "logs": []
 }

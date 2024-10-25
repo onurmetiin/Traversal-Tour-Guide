@@ -69,6 +69,7 @@
     <None Remove="Areas\Admin\Models\" />
     <None Remove="Areas\Admin\Views\" />
     <None Remove="Areas\Admin\Views\Destination\" />
+    <None Remove="Views\Admin\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Default\" />
@@ -109,6 +110,7 @@
     <Folder Include="Areas\Admin\Models\" />
     <Folder Include="Areas\Admin\Views\" />
     <Folder Include="Areas\Admin\Views\Destination\" />
+    <Folder Include="Views\Admin\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\UserImages\" />

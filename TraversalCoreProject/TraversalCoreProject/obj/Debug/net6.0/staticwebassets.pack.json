@@ -1017,6 +1017,10 @@
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
     },
     {
+      "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/sneat/.DS_Store",
+      "PackagePath": "staticwebassets/sneat/.DS_Store"
+    },
+    {
       "Id": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/sneat/.browserslistrc",
       "PackagePath": "staticwebassets/sneat/.browserslistrc"
     },

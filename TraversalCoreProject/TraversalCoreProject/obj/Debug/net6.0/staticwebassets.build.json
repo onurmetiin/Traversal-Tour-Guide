@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "SzUTAdK0vDq/dSFxQJTBvrOZh1Mip5o3gN87E32RWAg=",
+  "Hash": "HNM9csW3oekqVuBFizTD/XVjwtS1fhyRoNopcJpH7BY=",
   "Source": "TraversalCoreProject",
   "BasePath": "_content/TraversalCoreProject",
   "Mode": "Default",
@@ -3245,6 +3245,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/sneat/.browserslistrc"
+    },
+    {
+      "Identity": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/sneat/.DS_Store",
+      "SourceId": "TraversalCoreProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/",
+      "BasePath": "_content/TraversalCoreProject",
+      "RelativePath": "sneat/.DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/sneat/.DS_Store"
     },
     {
       "Identity": "/Users/onurmetin/Desktop/Traversal-Tour-Guide/TraversalCoreProject/TraversalCoreProject/wwwroot/sneat/.eslintignore",
