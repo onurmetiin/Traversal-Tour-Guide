@@ -23,9 +23,9 @@
     @foreach (var item in Model)
         {
         <tr>
-            @{sayac = @sayac + 1}                
+            @{sayac = @sayac + 1;}
             <td>@sayac</td>
-            <td>@item.Name + @item.Surname</td>
+            <td>@item.Name @item.Surname</td>
             <td>@item.UserName</td>
             <td>@item.Email</td>
             <td><a href="/Admin/User/DeleteUser/@item.Id" class="btn btn-outline-danger">Sil</a></td>

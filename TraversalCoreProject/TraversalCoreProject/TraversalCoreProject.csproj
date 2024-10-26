@@ -75,6 +75,7 @@
     <None Remove="Views\Shared\Components\_DashboardBanner\" />
     <None Remove="Areas\Admin\Views\Comment\" />
     <None Remove="Areas\Admin\Views\User\" />
+    <None Remove="Views\ErrorPage\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Default\" />
@@ -121,6 +122,7 @@
     <Folder Include="Views\Shared\Components\_DashboardBanner\" />
     <Folder Include="Areas\Admin\Views\Comment\" />
     <Folder Include="Areas\Admin\Views\User\" />
+    <Folder Include="Views\ErrorPage\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\UserImages\" />
