@@ -76,6 +76,7 @@
     <None Remove="Areas\Admin\Views\Comment\" />
     <None Remove="Areas\Admin\Views\User\" />
     <None Remove="Views\ErrorPage\" />
+    <None Remove="Areas\Admin\Views\Guide\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Default\" />
@@ -123,6 +124,7 @@
     <Folder Include="Areas\Admin\Views\Comment\" />
     <Folder Include="Areas\Admin\Views\User\" />
     <Folder Include="Views\ErrorPage\" />
+    <Folder Include="Areas\Admin\Views\Guide\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\UserImages\" />
