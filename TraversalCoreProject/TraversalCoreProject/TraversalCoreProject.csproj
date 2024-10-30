@@ -19,6 +19,9 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.35" />
     <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.35" />
+    <PackageReference Include="Serilog.Extensions.Logging.File" Version="3.0.0" />
+    <PackageReference Include="EPPlus" Version="7.4.2" />
+    <PackageReference Include="ClosedXML" Version="0.104.1" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\BusinessLayer\BusinessLayer.csproj">
@@ -77,6 +80,7 @@
     <None Remove="Areas\Admin\Views\User\" />
     <None Remove="Views\ErrorPage\" />
     <None Remove="Areas\Admin\Views\Guide\" />
+    <None Remove="Views\Excel\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Default\" />
@@ -125,6 +129,7 @@
     <Folder Include="Areas\Admin\Views\User\" />
     <Folder Include="Views\ErrorPage\" />
     <Folder Include="Areas\Admin\Views\Guide\" />
+    <Folder Include="Views\Excel\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\UserImages\" />

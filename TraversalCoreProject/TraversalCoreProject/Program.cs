@@ -7,7 +7,10 @@ using DataAccessLayer.EntityFramework;
 using EntityLayer.Concrete;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc.Authorization;
+using OfficeOpenXml;
+using Serilog;
 using TraversalCoreProject.Models;
+using OfficeOpenXml;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -20,15 +23,22 @@ builder.Services
     .AddErrorDescriber<CustomIdentityValidator>()
     .AddEntityFrameworkStores<Context>();
 
+//burasını sonradan ekledik
+builder.Services.AddLogging(x=>
+{
+    x.ClearProviders();
+    x.SetMinimumLevel(LogLevel.Debug);
+    x.AddDebug();
 
+    //burasını sonradan ekledik
+    var path = Directory.GetCurrentDirectory();
+    x.AddFile($"{path}\\Logs\\Log1.txt");
+});
 
 
 //burası sonradan eklendi (Controller tarafında sürekli manageri newlememek için I..Service i verdik onun için burası)
 CustomizeExtension.ContainerDependency(builder.Services);
 //builder.Services.ContainerDependency();
-
-
-
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
@@ -60,6 +70,8 @@ app.UseStatusCodePagesWithReExecute("/ErrorPage/Error404", "?code={0}");
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 
+
+
 //burasını sonradan ekledik
 app.UseAuthentication();
 
@@ -90,6 +102,37 @@ app.UseEndpoints(endpoint =>
         pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}"
     );
 });
+
+
+
+
+//EXCEL için eklendi
+// EPPlus lisans ayarı
+ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
+
+
+// Middleware ayarları
+if (!app.Environment.IsDevelopment())
+{
+    app.UseExceptionHandler("/Home/Error");
+    app.UseHsts();
+}
+
+app.UseHttpsRedirection();
+app.UseStaticFiles();
+
+app.UseRouting();
+
+app.UseAuthorization();
+
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=Home}/{action=Index}/{id?}");
+
+
+
+
+
 
 app.Run();
 
